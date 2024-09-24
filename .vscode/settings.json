@@ -1,0 +1,8 @@
+{
+  "eslint.workingDirectories": [
+    "./cra-ts",
+    "./next-ts",
+    "./simple-cra-ts",
+    "./simple-next-ts",
+  ],
+}
